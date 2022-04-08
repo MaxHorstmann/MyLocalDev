@@ -3,6 +3,7 @@ My local dev tools and settings
 
 # Install manually
 
+* [homebrew](https://brew.sh/)
 * [git](https://git-scm.com/downloads)
 * [Go](https://go.dev/dl)
 * [VS Code](https://code.visualstudio.com)
