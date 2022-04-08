@@ -3,6 +3,7 @@ My local dev tools and settings
 
 # Install manually
 
+* [Sublime](https://www.sublimetext.com/)
 * [homebrew](https://brew.sh/)
 * [git](https://git-scm.com/downloads)
 * [Go](https://go.dev/dl)
