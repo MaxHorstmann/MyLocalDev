@@ -11,3 +11,4 @@ My local dev tools and settings
 * [Docker](https://www.docker.com/products/docker-desktop)
 * [kubectl](https://kubernetes.io/docs/tasks/tools)
 * [Lens](https://k8slens.dev)
+* [kind](https://kind.sigs.k8s.io/docs/user/quick-start/#installing-from-source)
