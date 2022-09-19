@@ -10,5 +10,5 @@ My local dev tools and settings
 * [VS Code](https://code.visualstudio.com)
 * [Docker](https://www.docker.com/products/docker-desktop)
 * [kubectl](https://kubernetes.io/docs/tasks/tools)
-* [Lens](https://k8slens.dev)
+* [OpenLens](https://github.com/MuhammedKalkan/OpenLens/releases)
 * [kind](https://kind.sigs.k8s.io/docs/user/quick-start/#installing-from-source)
